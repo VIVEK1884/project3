@@ -35,15 +35,15 @@ Part 1: Using a real world data set from Kaggle containing the Vancouver Crimes 
 
 TYPE - Crime type YEAR - Recorded year MONTH - Recorded month DAY - Recorded day HOUR - Recorded hour MINUTE - Recorded minute HUNDRED_BLOCK - Recorded block NEIGHBOURHOOD - Recorded neighborhood X - GPS longtitude Y - GPS latitude Data set URL: https://www.kaggle.com/agilesifaka/vancouver-crime-report/version/2
 
-Reading from the Dataset
-Due to sheer amount of data(~ 600,000 rows), it was not possible to process all of them and instead for this project we will be considering the recent crime report of the 2018.
+Reading from the Dataset  
+Due to sheer amount of data(~ 600,000 rows), it was not possible to process all of them and instead for this project we will be considering the recent crime report of the 2018.  
 
-Methodology
-Categorized the methodologysection into two parts:
+Methodology  
+Categorized the methodologysection into two parts:     
 
--Exploratory Data Analysis_: Visualise the crime repots in different Vancouver boroughs to idenity the safest borough and normalise the neighborhoods of that borough. We will Use the resulting data and find 10 most common venues in each neighborhood
-Modelling: To help stakeholders choose the right neighborhood within a borough we will be clustering similar neighborhoods using K - means clustering which is a form of unsupervised machine learning algorithm that clusters data based on predefined cluster size. We will use K-Means clustering to address this problem so as to group data based on existing venues which will help in the decision making process.
-Expolring the data by Visualising
-Modelling
-Results and Discussion¶
-Conclusion
+-Exploratory Data Analysis_: Visualise the crime repots in different Vancouver boroughs to idenity the safest borough and normalise the neighborhoods of that borough. We will Use the resulting data and find 10 most common venues in each neighborhood  
+Modelling: To help stakeholders choose the right neighborhood within a borough we will be clustering similar neighborhoods using K - means clustering which is a form of unsupervised machine learning algorithm that clusters data based on predefined cluster size. We will use K-Means clustering to address this problem so as to group data based on existing venues which will help in the decision making process.  
+Expolring the data by Visualising  
+Modelling  
+Results and Discussion¶  
+Conclusion  
